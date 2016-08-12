@@ -1,3 +1,4 @@
 # Hello-World
 Hi all,
-The solver machine is here. feel free to comment and get answer.
+
+My name is Peter Le.I am a student at Edmons Community College, Lynnwood, WA.
